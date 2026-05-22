@@ -2,5 +2,7 @@ class AppVectors {
   static const String basePath = 'assets/vectors/';
   static const String format = '.svg';
 
-  static const String logo = '${basePath}spotify_logo$format';
+  static const String logo = 'assets/vectors/spotify_logo.svg';
+  static const String moon = 'assets/vectors/moon.svg';
+  static const String sun = 'assets/vectors/sun.svg';
 }
