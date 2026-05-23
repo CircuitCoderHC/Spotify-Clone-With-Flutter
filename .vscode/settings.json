@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
+        "Appbar",
         "incididuntt"
-    ]
+    ],
+    "cmake.sourceDirectory": "C:/Flutter Dev/projects/spotify_clone_with_flutter/windows/flutter",
+    "cmake.ignoreCMakeListsMissing": true
 }

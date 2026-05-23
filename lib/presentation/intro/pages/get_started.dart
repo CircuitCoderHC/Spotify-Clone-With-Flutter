@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:spotify_clone_with_flutter/common/widgets/button/basic_app_button.dart';
-import 'package:spotify_clone_with_flutter/core/configs/app_images.dart';
+import 'package:spotify_clone_with_flutter/core/configs/assets/app_images.dart';
 import 'package:spotify_clone_with_flutter/core/configs/assets/app_vectors.dart';
 import 'package:spotify_clone_with_flutter/core/configs/theme/app_colors.dart';
 import 'package:spotify_clone_with_flutter/presentation/choose_mode/pages/choose_mode.dart';
